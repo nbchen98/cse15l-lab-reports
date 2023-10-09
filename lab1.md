@@ -27,7 +27,7 @@
 - The reason I got the output in the screenshot is because the command shows the files in the directory, but does not change the working directory.
 - The output is not an error.
 3. Share an example of using the command with a path to a file as an argument.
-![Image](ls3.png)
+![Image](lls3.png)
 - The working directory when the command was run is /home/lecture1
 - The reason I got Hello.java as the output is because the command shows the files and folders in a directory, because Hello.java is a file, Hello.java was returned.
 - The output is not an error
