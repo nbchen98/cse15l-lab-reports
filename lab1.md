@@ -36,15 +36,15 @@
 1. Share an example of using the command with no arguments.
 ![Image](ccat1.png)
 - The working directory when the command was run is /home
-- The output I got was a blank line because the command returns the contents from a file, but there is no file to return the contents of.
+- The output I got was a blank line initially, but after typing "hello world" and pressing enter, hello world is returned. This happened because the cat command reads the data from the standard input and returns the standard output.
 - The output is not an error.
 2. Share an exmaple of using the command with a path to a directory as an argument.
 ![Image](cat2.png)
 - The working directory when the command was run is /home
-- The output I got was "cat: lecture1: is a directory" because cat prints the code from a file, but lecture 1 is a directory.
-- The output is an error because cat prints code from a file not directories.
+- The output I got was "cat: lecture1: is a directory" because cat prints the contents from a file, but lecture 1 is a directory.
+- The output is an error because cat prints the contents of a file, but the argument is a directory.
 3. Share an example of using the command with a path to a file as an argument.
 ![Image](cat3.png)
 - The working directory when the command was run is /home/lecture1
-- The output I got was the code in Hello.java because cat returns the code from the file.
+- The output I got was the code in Hello.java because cat returns the the contents from a file as its standard output.
 - The output is not an error.
