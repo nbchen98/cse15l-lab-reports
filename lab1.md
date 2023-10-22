@@ -34,9 +34,9 @@
 
 **Command `cat`**
 1. Share an example of using the command with no arguments.
-![Image](cat1.png)
+![Image](ccat1.png)
 - The working directory when the command was run is /home
-- The output I got was a blank line because the command prints the code from a file, but there is no file to print from.
+- The output I got was a blank line because the command returns the contents from a file, but there is no file to return the contents of.
 - The output is not an error.
 2. Share an exmaple of using the command with a path to a directory as an argument.
 ![Image](cat2.png)
