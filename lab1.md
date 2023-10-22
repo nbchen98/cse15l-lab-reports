@@ -37,7 +37,7 @@
 ![Image](cat1.png)
 - The working directory when the command was run is /home
 - The output I got was a blank line because the command prints the code from a file, but there is no file to print from.
-- The output is an error because the cat command prints the code from a file, but a blank line is returned
+- The output is not an error.
 2. Share an exmaple of using the command with a path to a directory as an argument.
 ![Image](cat2.png)
 - The working directory when the command was run is /home
