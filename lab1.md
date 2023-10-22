@@ -46,5 +46,5 @@
 3. Share an example of using the command with a path to a file as an argument.
 ![Image](cat3.png)
 - The working directory when the command was run is /home/lecture1
-- The output I got was the code in Hello.java because cat returns the the contents from a file as its standard output.
+- The output I got was the contents in Hello.java as its standard output because cat returns the the contents from a file as its standard output.
 - The output is not an error.
