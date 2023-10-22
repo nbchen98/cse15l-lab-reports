@@ -1,4 +1,4 @@
-**Command _cd_**
+**Command 'cd'**
 1. Share an example of using the command with no arguments.
 ![Image](ccd1.png)
 - The working directory when the command was run is /home.
