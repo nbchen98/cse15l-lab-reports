@@ -15,7 +15,7 @@
 - The output received is "bash: cd: Hello.class: Not a directory". This output was received because the command cd can only be used to change the working directory.
 - The output is an error because the working directory was not changed since Hello.class is a file and not a directory.
 
-**Command _ls_**
+**Command `ls`**
 1. Share an example of using the command with no arguments
 ![Image](ls1.png)
 - The working directory when the command was run is /home/lecture1.
@@ -32,7 +32,7 @@
 - The reason I got Hello.java as the output is because the command shows the files and folders in a directory, because Hello.java is a file, Hello.java was returned.
 - The output is not an error.
 
-**Command _cat_**
+**Command `cat`**
 1. Share an example of using the command with no arguments.
 ![Image](cat1.png)
 - The working directory when the command was run is /home
