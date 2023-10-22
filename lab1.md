@@ -6,7 +6,7 @@
 - This output is not an error.
 2. Share an exmaple of using the command with a path to a directory as an argument.
 ![Image](cccd2.png)
-- The working directory when the command was run is /home/lecture1
+- The working directory when the command was run is /home
 - The reason why the working directory became /home/lecture1 is because the command was ran with the argument lecture1 changing the directory to lecture1.
 - The output is not an error.
 3. Share an example of using the command with a path to a file as an argument.
