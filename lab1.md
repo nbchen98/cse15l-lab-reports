@@ -1,6 +1,6 @@
 **Command `cd`**
 1. Share an example of using the command with no arguments.
-![Image](cd1.png)
+![Image](cccd1.png)
 - The working directory when the command was run is /home/lecture1.
 - The output I got was the working directory /home and I got this output because I ran cd with no arguments which takes me back to the home directory.
 - This output is not an error.
