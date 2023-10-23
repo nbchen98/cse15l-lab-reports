@@ -26,4 +26,5 @@
 ![Image](terminal.png)
 
 **Part 3**
+
 Something I learned from lab in week 3 that I did not know before was how to setup my remote account to not need a password to login. This was done by creating a public SSH key. Then creating a directory in the remote account to hold the public key. After, I used the `scp` command to securely copy the public SSH key from my computer to the remote account.
