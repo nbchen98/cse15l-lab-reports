@@ -1,3 +1,4 @@
+**Part 1**
 ![Image](stringserver.png)
 1. **Screenshot 1 of `/add-message`**
 ![Image](ss1.png)
@@ -9,3 +10,11 @@
 - The method called in my code is handleRequest
 - The relevant argument to handleRequest is also the url path that contains "/add-message" and the query parameter equals "s". The values of relevant fields of the classs are increasing num by 1 and "How are you" which is added to the words string.
 - The value of the words string is updated to contain "How are you" which stores all the strings and num increases by 1.
+
+**Part 2**
+`ls` Path to private key
+![Image](private.png)
+`ls` Path to public key
+![Image](public.png)
+Terminal Interaction with login to ieng6 and `ls`
+![Image](terminal.png)
