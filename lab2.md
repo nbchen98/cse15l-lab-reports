@@ -12,9 +12,9 @@
 - The value of the words string is updated to contain "How are you" which stores all the strings and num increases by 1.
 
 **Part 2**
-`ls` Path to private key
+- `ls` Path to private key
 ![Image](private.png)
-`ls` Path to public key
+- `ls` Path to public key
 ![Image](public.png)
-Terminal Interaction with login to ieng6 and `ls`
+- Terminal Interaction with login to ieng6 and `ls`
 ![Image](terminal.png)
