@@ -42,3 +42,7 @@
     return newArray;
   }
 ```
+
+**Why does the fix address the issue?**
+- Prior to the fix, the code was buggy because the reversed method created a new empty array with the size of the input array. Then, the method copies over the reverse order of the array onto the main array, however each index of newArray is just 0 because the array is empty. The fix copies over the elements from the input array in reverse order to the new Array, then returns the new Array.
+
