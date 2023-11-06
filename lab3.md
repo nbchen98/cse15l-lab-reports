@@ -50,6 +50,7 @@
 **Part 2**
 
 `find -name`
+
 I discovered this command using `man find`
 
 ![Image](findn1.png)
@@ -59,6 +60,7 @@ I discovered this command using `man find`
 - In this example, the command is finding files with any name and .txt in the file name. This is useful when you want to find files with a certain character or word in it.
 
 `find -type`
+
 I discovered this command using `man find`
 
 ![Image](findt1.png)
@@ -68,6 +70,7 @@ I discovered this command using `man find`
 - In this example, the command is finding the files within the directory provided. This is useful for searching for files within a directory.
 
 `find -size`
+
 I discovered this command using `man find`
 
 ![Image](finds1.png)
@@ -77,6 +80,7 @@ I discovered this command using `man find`
 - In this example, the command is finding files that are less than 2kb in size within the directory provided. This is useful for searching for files that are less than 2 kb.
 
 `find -iname`
+
 I discovered this command using `man find`
 
 ![Image](findi1.png)
