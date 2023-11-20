@@ -34,3 +34,5 @@
 ![Image](git.png)
 
 - First, I typed `git add ListExamples.java <enter>`. This command adds the changed file to the commit request and the effect of the keypresses were typing out the command and running the command. Next I typed `git commit -m 'update' <enter>`, This command commits the changed file to my github account with the message 'update' and the effect of the keypresses were typing the command and running the command. Finally, I typed `git push <enter>`, this command pushes the changes to my github account and the effect of the keypresses were typing out the command and running the command.
+
+Time: 2 minutes and 22 seconds.
