@@ -19,7 +19,7 @@
 
 **Step 4: Edit the code file ListExamples.java to fix the failing test (as a reminder, the error in the code is just that index1 is used instead of index2 in the final loop in merge)**
 
-![Image](git.png)
+![Image](vim.png)
 
 - To fix the failing test, I edited the code in the ListExamples.java file by typing `vim ListExamples.java <enter>`. This command opens the file in the terminal allowing me to view it and the effect of the keypresses were typing out the command and running the command. Next I pressed `<up><up><right><right><right><right><right><right><right><right><i><delete><2><esc>`. The effect of these keypresses are moving the cursor, then editing the code to change index1 to index2. Finally, I typed `:wq <enter>`. This command saves and closes the file and the effect of the keypresses were typing the command and running the command.
 
