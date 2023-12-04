@@ -11,6 +11,7 @@ There is no while loop that adds the elements from list1 to the final array.
 
 4.The file needed to fix the bug is ListExamples.java which is in the lab7-main directory.
 Entire directory structure: ![Image](dstructure.png)
+
 Contents of file before fixing bug: ![Image](symptom2.png)
 Full command ran to trigger bug: bash test.sh
 A description of what to edit to fix the bug: In ListExamples.java, the merge method was missing a while loop that adds elements from the initial array to the final array. So this was implemented in the merge method ![Image](abug.png)
