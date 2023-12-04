@@ -7,6 +7,7 @@
 2. **TA:** Hello, check to make sure that your merge method properly adds elements of both arrays into the final array.
 
 3. ![Image](symptom2.png)
+There is no while loop that adds the elements from list1 to the final array.
 
 4.The file needed to fix the bug is ListExamples.java which is in the lab7-main directory.
 Entire directory structure: ![Image](dstructure.png)
